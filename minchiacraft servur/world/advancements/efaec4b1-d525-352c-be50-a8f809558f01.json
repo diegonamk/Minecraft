@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting": {
+    "criteria": {
+      "has_emerald_ore": "2021-03-17 22:04:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-13 00:00:52 +0100"
@@ -945,6 +951,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-03-12 23:18:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-03-17 22:30:11 +0100"
     },
     "done": true
   },
@@ -1526,6 +1538,7 @@
       "minecraft:jungle": "2021-03-13 00:44:30 +0100",
       "minecraft:birch_forest": "2021-03-13 00:21:24 +0100",
       "minecraft:jungle_hills": "2021-03-13 00:55:00 +0100",
+      "minecraft:warm_ocean": "2021-03-17 23:16:10 +0100",
       "minecraft:deep_lukewarm_ocean": "2021-03-13 12:32:56 +0100",
       "minecraft:savanna_plateau": "2021-03-15 00:59:06 +0100",
       "minecraft:beach": "2021-03-12 23:17:49 +0100",
@@ -1563,6 +1576,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2021-03-14 21:52:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-03-17 22:26:57 +0100"
     },
     "done": true
   },
@@ -1605,6 +1624,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2021-03-14 22:14:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2021-03-17 22:28:01 +0100"
     },
     "done": true
   },
@@ -1803,9 +1828,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-03-18 00:13:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2021-03-13 00:47:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-03-17 22:08:24 +0100"
     },
     "done": true
   },
@@ -2393,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2021-03-17 23:26:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-03-12 23:27:07 +0100"
@@ -2672,6 +2715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-03-17 22:08:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-03-13 23:33:34 +0100"
@@ -2900,6 +2949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2021-03-17 22:28:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-12 23:38:25 +0100"
@@ -3116,6 +3171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2021-03-17 22:04:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2021-03-13 01:32:04 +0100"
@@ -3137,6 +3198,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-03-15 21:03:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-03-17 22:30:11 +0100"
     },
     "done": true
   },
@@ -3203,6 +3270,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-03-12 23:56:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-03-17 22:26:57 +0100"
     },
     "done": true
   },
