@@ -1,114 +1,33 @@
-[20:32:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:32:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:32:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:32:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:04] [main/INFO]: Reloading ResourceManager: Default
-[20:32:05] [Worker-Main-5/INFO]: Loaded 7 recipes
-[20:32:05] [Worker-Main-5/INFO]: Loaded 927 advancements
-[20:32:06] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:32:06] [Server thread/INFO]: Loading properties
-[20:32:06] [Server thread/INFO]: Default game type: SURVIVAL
-[20:32:06] [Server thread/INFO]: Generating keypair
-[20:32:06] [Server thread/INFO]: Starting Minecraft server on 192.168.1.50:25565
-[20:32:06] [Server thread/INFO]: Using default channel type
-[20:32:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:32:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:32:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:32:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:32:07] [Server thread/INFO]: Preparing level "world"
-[20:32:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:32:08] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:08] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:08] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:10] [Server thread/INFO]: Time elapsed: 3020 ms
-[20:32:10] [Server thread/INFO]: Done (3.112s)! For help, type "help"
-[20:32:14] [Server thread/INFO]: Fabriborgi[/2.236.248.132:53397] logged in with entity id 375 at (206.5973226618099, 17.0, -190.6124516767299)
-[20:32:14] [Server thread/INFO]: Fabriborgi joined the game
-[20:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:32:18] [Server thread/INFO]: nicfra3[/37.116.156.241:50980] logged in with entity id 388 at (217.51886384614463, 13.0, -201.46128633781342)
-[20:32:18] [Server thread/INFO]: nicfra3 joined the game
-[20:39:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2073, l='ServerLevel[world]', x=190.67, y=71.00, z=-272.29]
-[20:39:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2073, l='ServerLevel[world]', x=190.67, y=71.00, z=-272.29]
-[20:43:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/3107, l='ServerLevel[world]', x=121.13, y=11.00, z=-269.88]
-[20:45:34] [Server thread/INFO]: BoomeRang02[/10.221.189.249:64440] logged in with entity id 3695 at (1296.1438335646965, 66.0, -849.6268967002738)
-[20:45:34] [Server thread/INFO]: BoomeRang02 joined the game
-[20:49:17] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:49:18] [Server thread/INFO]: Saved the game
-[20:49:22] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:49:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:49:24] [Server thread/INFO]: Saved the game
-[20:53:31] [Server thread/INFO]: CuberNet[/10.91.49.85:53104] logged in with entity id 8922 at (203.06444701939188, 68.0, -196.1837242538858)
-[20:53:31] [Server thread/INFO]: CuberNet joined the game
-[20:53:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9314, l='ServerLevel[world]', x=191.80, y=71.00, z=-271.20]
-[20:53:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9314, l='ServerLevel[world]', x=191.80, y=71.00, z=-271.20]
-[20:56:23] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:56:25] [Server thread/INFO]: Saved the game
-[20:57:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11364, l='ServerLevel[world]', x=191.80, y=71.00, z=-272.04]
-[20:59:22] [Server thread/INFO]: <nicfra3> CuberNet
-[20:59:28] [Server thread/INFO]: <CuberNet> oiou
-[21:19:22] [Server thread/INFO]: <CuberNet> no
-[21:19:49] [Server thread/INFO]: Villager bfj['Villager'/21629, l='ServerLevel[world]', x=3207.66, y=66.08, z=319.29] died, message: 'Villager was slain by Vindicator'
-[21:19:59] [Server thread/INFO]: Villager bfj['Villager'/21691, l='ServerLevel[world]', x=3222.77, y=65.00, z=333.99] died, message: 'Villager was slain by Vindicator'
-[21:22:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/23948, l='ServerLevel[world]', x=23.88, y=73.00, z=-27.08]
-[21:22:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/23949, l='ServerLevel[world]', x=22.87, y=73.00, z=-27.20]
-[21:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
-[21:22:20] [Server thread/INFO]: Villager bfj['Villager'/21576, l='ServerLevel[world]', x=3228.29, y=66.56, z=324.19] died, message: 'Villager was slain by Vindicator'
-[21:22:22] [Server thread/INFO]: Villager bfj['Villager'/21666, l='ServerLevel[world]', x=3228.29, y=66.00, z=324.70] died, message: 'Villager was slain by Vindicator'
-[21:22:36] [Server thread/INFO]: Villager bfj['Weaponsmith'/21628, l='ServerLevel[world]', x=3196.13, y=71.00, z=352.56] died, message: 'Weaponsmith was slain by Vindicator'
-[21:22:51] [Server thread/INFO]: <CuberNet> Diego <3
-[21:24:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25293, l='ServerLevel[world]', x=191.04, y=71.00, z=-272.80]
-[21:24:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25293, l='ServerLevel[world]', x=191.04, y=71.00, z=-272.80]
-[21:25:47] [Server thread/INFO]: Saving the game (this may take a moment!)
-[21:25:48] [Server thread/INFO]: Saved the game
-[21:25:51] [Server thread/INFO]: There are 4 of a max of 20 players online: Fabriborgi, nicfra3, BoomeRang02, CuberNet
-[21:27:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26403, l='ServerLevel[world]', x=191.39, y=71.00, z=-271.20]
-[21:27:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26403, l='ServerLevel[world]', x=191.39, y=71.00, z=-271.20]
-[21:27:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26403, l='ServerLevel[world]', x=191.39, y=71.00, z=-271.20]
-[21:29:15] [Server thread/INFO]: CuberNet has made the advancement [Cover Me With Diamonds]
-[21:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
-[21:33:40] [Server thread/WARN]: CuberNet moved too quickly! 10.10400071483022,0.0,-0.37644319641105994
-[21:34:33] [Server thread/INFO]: <nicfra3> amo le bimbe under 12
-[21:34:43] [Server thread/INFO]: <nicfra3> cit scara
-[21:37:27] [Server thread/INFO]: CuberNet has made the advancement [Hidden in the Depths]
-[21:38:08] [Server thread/INFO]: Fabriborgi lost connection: Disconnected
-[21:38:08] [Server thread/INFO]: Fabriborgi left the game
-[21:40:33] [Server thread/INFO]: CuberNet has completed the challenge [Hot Tourist Destinations]
-[21:42:51] [Server thread/INFO]: <nicfra3> bambine nude
-[21:42:54] [Server thread/INFO]: <nicfra3> .com
-[21:43:03] [Server thread/INFO]: <nicfra3> ti do il numero
-[21:43:26] [Server thread/INFO]: <nicfra3> 3459588988
-[21:44:05] [Server thread/INFO]: <nicfra3> le negre in cucina no, a scavare si
-[21:47:46] [Server thread/INFO]: nicfra3 lost connection: Disconnected
-[21:47:46] [Server thread/INFO]: nicfra3 left the game
-[21:48:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/36714, l='ServerLevel[world]', x=191.80, y=71.00, z=-272.22]
-[21:48:37] [Server thread/INFO]: CuberNet lost connection: Disconnected
-[21:48:37] [Server thread/INFO]: CuberNet left the game
-[21:59:20] [Server thread/INFO]: BoomeRang02 lost connection: Disconnected
-[21:59:20] [Server thread/INFO]: BoomeRang02 left the game
-[22:04:18] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[22:04:20] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:04:20] [Server thread/INFO]: Saved the game
-[22:04:22] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:04:23] [Server thread/INFO]: Saved the game
-[22:07:59] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[22:08:02] [Server thread/INFO]: Stopping the server
-[22:08:03] [Server thread/INFO]: Stopping server
-[22:08:03] [Server thread/INFO]: Saving players
-[22:08:03] [Server thread/INFO]: Saving worlds
-[22:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:17:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/23082, l='ServerLevel[world]', x=244.42, y=88.89, z=-224.92]
+[00:18:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/23350, l='ServerLevel[world]', x=247.87, y=87.00, z=-224.13]
+[00:24:43] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:24:43] [Server thread/INFO]: Saved the game
+[00:29:25] [Server thread/WARN]: BoomeRang02 moved wrongly!
+[00:39:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28856, l='ServerLevel[world]', x=191.45, y=71.00, z=-271.20]
+[00:42:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/29640, l='ServerLevel[world]', x=190.65, y=71.00, z=-272.80]
+[00:43:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/29762, l='ServerLevel[world]', x=190.52, y=71.00, z=-272.80]
+[00:48:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30861, l='ServerLevel[world]', x=190.24, y=71.00, z=-272.78]
+[00:54:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/31969, l='ServerLevel[world]', x=191.80, y=71.00, z=-271.70]
+[00:56:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/32399, l='ServerLevel[world]', x=191.37, y=71.00, z=-271.80]
+[01:00:06] [Server thread/INFO]: BoomeRang02 lost connection: Disconnected
+[01:00:06] [Server thread/INFO]: BoomeRang02 left the game
+[01:00:12] [Server thread/INFO]: Diego lost connection: Disconnected
+[01:00:12] [Server thread/INFO]: Diego left the game
+[01:00:18] [Server thread/INFO]: There are 1 of a max of 20 players online: omichronos
+[01:00:22] [Server thread/INFO]: omichronos lost connection: Disconnected
+[01:00:22] [Server thread/INFO]: omichronos left the game
+[01:00:27] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:00:27] [Server thread/INFO]: Saved the game
+[01:00:32] [Server thread/INFO]: Stopping the server
+[01:00:32] [Server thread/INFO]: Stopping server
+[01:00:32] [Server thread/INFO]: Saving players
+[01:00:32] [Server thread/INFO]: Saving worlds
+[01:00:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
