@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-03-21 21:33:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-03-13 00:11:06 +0100"
@@ -758,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-03-21 21:22:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-03-12 23:32:06 +0100"
@@ -1199,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-03-21 21:48:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2021-03-12 23:32:35 +0100"
@@ -1478,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:37:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2021-03-13 19:50:49 +0100"
@@ -1567,6 +1591,7 @@
       "cooked_porkchop": "2021-03-13 00:16:57 +0100",
       "cooked_mutton": "2021-03-12 23:49:16 +0100",
       "cooked_beef": "2021-03-13 00:50:07 +0100",
+      "chorus_fruit": "2021-03-21 21:34:08 +0100",
       "porkchop": "2021-03-12 23:41:00 +0100",
       "tropical_fish": "2021-03-13 00:44:52 +0100",
       "apple": "2021-03-12 23:23:12 +0100",
@@ -2128,6 +2153,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:37:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:37:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-03-12 23:32:06 +0100"
@@ -2362,6 +2399,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-03-21 21:33:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-03-13 01:37:58 +0100"
@@ -2500,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:37:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-03-13 00:11:06 +0100"
@@ -2533,6 +2582,18 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-03-12 23:32:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-03-21 21:22:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:37:30 +0100"
     },
     "done": true
   },
