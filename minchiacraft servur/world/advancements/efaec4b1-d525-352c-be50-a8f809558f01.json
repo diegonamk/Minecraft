@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-03-21 21:34:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-03-12 23:27:07 +0100"
@@ -719,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-03-21 21:28:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-03-12 23:32:56 +0100"
@@ -748,6 +760,7 @@
       "minecraft:zombified_piglin": "2021-03-14 21:01:29 +0100",
       "minecraft:witch": "2021-03-14 01:35:31 +0100",
       "minecraft:wither_skeleton": "2021-03-19 17:48:28 +0100",
+      "minecraft:ender_dragon": "2021-03-21 21:28:39 +0100",
       "minecraft:cave_spider": "2021-03-14 01:05:04 +0100",
       "minecraft:piglin": "2021-03-13 15:29:52 +0100",
       "minecraft:enderman": "2021-03-12 23:54:35 +0100",
@@ -1074,6 +1087,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-03-14 19:44:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-03-21 21:22:52 +0100"
     },
     "done": true
   },
@@ -1756,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-03-21 21:30:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-03-13 01:31:28 +0100"
@@ -2198,6 +2223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:29:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2021-03-13 22:41:20 +0100"
@@ -2329,6 +2360,7 @@
       "cooked_porkchop": "2021-03-14 22:14:37 +0100",
       "cooked_mutton": "2021-03-13 00:21:43 +0100",
       "cooked_beef": "2021-03-14 00:16:33 +0100",
+      "chorus_fruit": "2021-03-21 21:35:44 +0100",
       "apple": "2021-03-12 23:39:51 +0100",
       "potato": "2021-03-14 20:58:34 +0100",
       "cooked_cod": "2021-03-12 23:31:59 +0100",
@@ -3151,6 +3183,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:29:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:29:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-03-12 23:56:08 +0100"
@@ -3505,6 +3549,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-03-21 21:33:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-03-13 00:17:25 +0100"
@@ -3691,6 +3741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:29:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-03-12 23:27:07 +0100"
@@ -3742,6 +3798,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-13 00:37:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-03-21 21:22:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-21 21:29:27 +0100"
     },
     "done": true
   },
