@@ -239,15 +239,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2021-03-21 01:31:30 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2021-03-21 01:15:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-03-21 01:31:30 +0100"
     },
     "done": true
   },
@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-03-21 21:20:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-13 00:25:53 +0100"
@@ -693,6 +699,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-03-12 23:28:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-03-21 20:38:34 +0100"
     },
     "done": true
   },
@@ -1175,6 +1187,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-03-21 20:25:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2021-03-14 23:49:56 +0100"
@@ -1471,6 +1489,7 @@
       "rotten_flesh": "2021-03-13 00:37:15 +0100",
       "dried_kelp": "2021-03-12 23:19:44 +0100",
       "melon_slice": "2021-03-15 00:13:36 +0100",
+      "cooked_chicken": "2021-03-21 20:23:23 +0100",
       "cod": "2021-03-12 23:23:51 +0100",
       "cooked_salmon": "2021-03-21 01:39:57 +0100"
     },
@@ -2149,6 +2168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-03-21 20:38:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-03-13 01:36:38 +0100"
@@ -2182,6 +2207,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-03-15 00:13:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-03-21 20:38:34 +0100"
     },
     "done": true
   },
