@@ -1,0 +1,24 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "nicfra3",
+      "isOP:1": 1,
+      "uuid:8": "1bf4dacc-64dc-3c26-b20f-b7567363c28d"
+    },
+    "1:10": {
+      "name:8": "BoomeRang02",
+      "isOP:1": 1,
+      "uuid:8": "efaec4b1-d525-352c-be50-a8f809558f01"
+    },
+    "2:10": {
+      "name:8": "Diego",
+      "isOP:1": 1,
+      "uuid:8": "b6924f51-1f86-392e-8603-14173febdfcb"
+    },
+    "3:10": {
+      "name:8": "BoomeRang02",
+      "isOP:1": 0,
+      "uuid:8": "3fabba16-4c9d-411a-bbfa-2e08f7771ba0"
+    }
+  }
+}

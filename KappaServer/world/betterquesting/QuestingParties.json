@@ -1,0 +1,26 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "1bf4dacc-64dc-3c26-b20f-b7567363c28d",
+          "status:8": "OWNER"
+        },
+        "1:10": {
+          "uuid:8": "efaec4b1-d525-352c-be50-a8f809558f01",
+          "status:8": "MEMBER"
+        },
+        "2:10": {
+          "uuid:8": "b6924f51-1f86-392e-8603-14173febdfcb",
+          "status:8": "MEMBER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "kkk"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+[00:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nicfra3: Given    [Drawer Controller] * 64 to nicfra3]
+[00:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nicfra3: Given    [Drawer Controller] * 64 to nicfra3]
+[00:20:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nicfra3 lost connection: Disconnected
+[00:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nicfra3 left the game
+[00:21:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BoomeRang02 lost connection: Disconnected
+[00:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: BoomeRang02 left the game
+[00:21:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
+[00:21:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
+[00:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
+[00:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Flushing all saves...
+[00:21:56] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:56] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:21:56] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM-7): All chunks are saved
+[00:21:56] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM-343800852): All chunks are saved
+[00:21:56] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM11): All chunks are saved
+[00:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Flushing completed
+[00:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
+[00:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_nether
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Spectre
+[00:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[00:21:59] [Server thread/INFO] [NetherEx]: Writing Nether biome data configs to disk.
+[00:21:59] [Server thread/INFO] [NetherEx]: Writing Pigtificate trade configs to disk.
+[00:21:59] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:21:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:21:59] [Server thread/INFO] [FML]: Unloading dimension -7
+[00:21:59] [Server thread/INFO] [FML]: Unloading dimension -343800852
+[00:21:59] [Server thread/INFO] [FML]: Unloading dimension 11
+[00:21:59] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -10
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -23
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -14
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -51
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -49
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -47
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -52
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -57
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -46
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -12
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: 55
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -48
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -53
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -54
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -56
+[00:21:59] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -50
+[00:21:59] [Server thread/INFO] [nuclearcraft]: Server Closing...
+[00:21:59] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 2 data blobs
+[00:21:59] [Server thread/INFO] [mcjtylib_ng]: RFTools Dimensions: server is stopping. Shutting down gracefully
+[00:21:59] [Server thread/INFO] [mcjtylib_ng]: Cleaning up RFTools dimensions
+[00:21:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:21:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:21:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

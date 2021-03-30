@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1bf4dacc-64dc-3c26-b20f-b7567363c28d",
+    "name": "nicfra3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "efaec4b1-d525-352c-be50-a8f809558f01",
+    "name": "BoomeRang02",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "41c82c87-7afb-4024-ba57-13d2c99cae77",
+    "name": "[Minecraft]",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
